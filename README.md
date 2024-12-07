@@ -30,12 +30,73 @@ Finally, clicking the  <img src="https://drive.google.com/uc?id=1qPgmgOiLcOmbwsG
 ## Testing and Quality Assurance 
 When the application is launched, the initial step involves opening the login page. Users are prompted to select a username and enter a PIN to proceed to the subsequent form.
 
-<img src="https://drive.google.com/uc?id=1Bvf9KeBmRD1INyYccl14vOAem-wRK41K"><img src="https://drive.google.com/uc?id=1XbL1BRCfH9MCrBxKkDTLMuBqT2CT1Drl">
+<p align="center"><img src="https://drive.google.com/uc?id=1Bvf9KeBmRD1INyYccl14vOAem-wRK41K" width="300" height="400"><img src="https://drive.google.com/uc?id=1XbL1BRCfH9MCrBxKkDTLMuBqT2CT1Drl" width="300" height="400"><br />
+<b>Figure 1:</b> Login page  &  <b>Figure 2:</b>Login page (choose user)
+</p>
 
 If the user enters an incorrect PIN, a message box will appear, and the system will reset,
 prompting the user to re-enter the correct PIN.
 
-<img src="https://drive.google.com/uc?id=1RnOqB2kMJseerie34R24ZULLPKUuutTR">
+<p align="center"><img src="https://drive.google.com/uc?id=1RnOqB2kMJseerie34R24ZULLPKUuutTR" width="300" height="400"><br /> 
+<b>Figure 3:</b> Login page (enters an incorrect PIN)</p>
+
+If the user enters the correct PIN, the application will proceed to the tea selection page. On
+the right side, various options are presented, each displaying available choices. Users can
+select their preferences, and the chosen options will be added to the data table.
+
+<p align="center"><img src="https://drive.google.com/uc?id=1IuctWpxxEW8GMO125OBnsYPDAGmWhRhp" width="500" height="350"><br /> 
+<b>Figure 4:</b> Main page</p>
+<p align="center"><img src="https://drive.google.com/uc?id=1aNTgGvJufLfxAzJFKa3pyIbc_2uMkc57" width="500" height="350"><br /> 
+<b>Figure 5:</b> Main page (Tea option)</p>
+<p align="center"><img src="https://drive.google.com/uc?id=1-b6xV4NoEezK3pilm0BK4dCUoKG4El8B" width="500" height="350"><br /> 
+<b>Figure 6:</b> Main page (Topping option)</p>
+<p align="center"><img src="https://drive.google.com/uc?id=1XqIV7XRT8GswsLDcXj0T8lywUq_6zYi5" width="500" height="350"><br /> 
+<b>Figure 7:</b> Main page (Ice option)</p>
+<p align="center"><img src="https://drive.google.com/uc?id=1f0NnwNDNjf7tMtpPVRLEtpw6Y4NYBVuK" width="500" height="350"><br /> 
+<b>Figure 8:</b> Main page (Sugar option)</p>
+<p align="center"><img src="https://drive.google.com/uc?id=12HhtRMhcv89LyS5Ymiqjaz--L8BXvTAv" width="500" height="350"><br /> 
+<b>Figure 9:</b> Main page (Discount option)</p>
+
+This page can also add, delete, and clear the order by click Add, Remove, and Cancel button.
+
+<p align="center"><img src="https://drive.google.com/uc?id=1c9bKHQA_NnOjQYGlmr9yNmzlMvsVrJIT" width="500" height="350"><br /> 
+<b>Figure 10:</b> Main page (click ‘Add’ button)</p>
+
+<p align="center"><img src="https://drive.google.com/uc?id=1vYKfK7P55GUoLGdxdFYTjMmYgypfVFhE" width="500" height="350"><br /> 
+<b>Figure 11:</b> Main page (click ‘Remove’ button)</p>
+
+<p align="center"><img src="https://drive.google.com/uc?id=1uYVfRQSiHu2tpuUaSk7sMHMo66qO2ZcX" width="500" height="350"><br /> 
+<b>Figure 12:</b> Main page (click ‘Cancel’ button)</p>
+
+If the user wishes to confirm the order, they can simply click on the 'Confirm' button on the
+screen. This action will open the confirmation form, where the application will calculate the
+price and total for the specified orders.
+
+<p align="center"><img src="https://drive.google.com/uc?id=1ny-ckzWPQoFm_0pM2MoVf2tX0pFnJuIv" width="500" height="350"><br /> 
+<b>Figure 13:</b> Confirmation page</p>
+
+When user already check the order, just click to confirm button, and the order will insert in
+database. Then this form will be close and refresh the order again.
+
+<p align="center"><img src="https://drive.google.com/uc?id=1nUmloU_GxyHJaxz69YZMcDBqiBnVyR_9" width="500" height="350"><br /> 
+<b>Figure 14:</b> Confirmation page (click ‘Confirm’ button)</p>
+
+User can click <img src="https://drive.google.com/uc?id=1qPgmgOiLcOmbwsGLyd0v7usPZzKC-673" width="30" height="30"> button on the main form to open order record. There are show the orders
+in per day, and user can fill into the search criteria to filter the order and click to “Search”
+button.
+
+<p align="center"><img src="https://drive.google.com/uc?id=1egtZqx-z3ap0XQWljrnLma5mC0lVXTgi" width="500" height="350"><br /> 
+<b>Figure 15:</b> Order record page</p>
+
+If user would like to logout, they can close the main form, then there will come back to login
+page again.
+
+<p align="center"><img src="https://drive.google.com/uc?id=1S86jAZKz92cygVW5ieRgKTdrMom-_2eI" width="150" height="100"><br /> 
+<b>Figure 16:</b> Close the program to logout</p>
+
+## Deployment and Distribution
+This project has been published into a setup file. Users can install the application from the
+setup file, and it will run seamlessly on the Windows platform.
 
 ## Security and Data Protection 
 The security protocol implemented in this project revolves around the login page, ensuring that only users with existing usernames in the database can gain access to the main form. 
