@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <p align="center">
-  <h1 align="center">SLAY TEA</h1>
+  <img src="https://drive.google.com/uc?id=1L00sKMFfUUAtHrH9yGR09kqQf0reIthe">
 </p>
 
 ## Desktop Application Development Overview
