@@ -27,6 +27,16 @@ Thirdly, within the confirmation form, the data table from the main form is pres
 
 Finally, clicking the  <img src="https://drive.google.com/uc?id=1qPgmgOiLcOmbwsGLyd0v7usPZzKC-673" width="30" height="30">  button in the main form will open the order record form (frmRecord), presenting the order details stored in the database. This information is retrieved from the view table (v_orderDetail) through the Search() function. Furthermore, the order record form includes search criteria to enable the user to filter the data table as needed.  
 
+## Testing and Quality Assurance 
+When the application is launched, the initial step involves opening the login page. Users are prompted to select a username and enter a PIN to proceed to the subsequent form.
+
+<img src="https://drive.google.com/uc?id=1Bvf9KeBmRD1INyYccl14vOAem-wRK41K"><img src="https://drive.google.com/uc?id=1XbL1BRCfH9MCrBxKkDTLMuBqT2CT1Drl">
+
+If the user enters an incorrect PIN, a message box will appear, and the system will reset,
+prompting the user to re-enter the correct PIN.
+
+<img src="https://drive.google.com/uc?id=1RnOqB2kMJseerie34R24ZULLPKUuutTR">
+
 ## Security and Data Protection 
 The security protocol implemented in this project revolves around the login page, ensuring that only users with existing usernames in the database can gain access to the main form. 
  
