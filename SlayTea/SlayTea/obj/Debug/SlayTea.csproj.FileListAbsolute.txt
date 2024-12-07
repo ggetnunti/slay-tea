@@ -1,0 +1,13 @@
+C:\Users\yutta\source\repos\SlayTea\SlayTea\bin\Debug\SlayTea.exe.config
+C:\Users\yutta\source\repos\SlayTea\SlayTea\bin\Debug\SlayTea.exe
+C:\Users\yutta\source\repos\SlayTea\SlayTea\bin\Debug\SlayTea.pdb
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Debug\SlayTea.csproj.AssemblyReference.cache
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Debug\SlayTea.Properties.Resources.resources
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Debug\SlayTea.csproj.GenerateResource.cache
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Debug\SlayTea.csproj.CoreCompileInputs.cache
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Debug\SlayTea.exe
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Debug\SlayTea.pdb
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Debug\SlayTea.frmMain.resources
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Debug\SlayTea.frmConfirm.resources
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Debug\SlayTea.frmRecord.resources
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Debug\SlayTea.frmLogin.resources

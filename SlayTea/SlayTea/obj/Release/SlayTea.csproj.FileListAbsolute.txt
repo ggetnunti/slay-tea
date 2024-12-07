@@ -1,0 +1,17 @@
+C:\Users\yutta\source\repos\SlayTea\SlayTea\bin\Release\SlayTea.exe.config
+C:\Users\yutta\source\repos\SlayTea\SlayTea\bin\Release\SlayTea.exe
+C:\Users\yutta\source\repos\SlayTea\SlayTea\bin\Release\SlayTea.pdb
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Release\SlayTea.csproj.AssemblyReference.cache
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Release\SlayTea.frmConfirm.resources
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Release\SlayTea.frmLogin.resources
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Release\SlayTea.frmMain.resources
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Release\SlayTea.frmRecord.resources
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Release\SlayTea.Properties.Resources.resources
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Release\SlayTea.csproj.GenerateResource.cache
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Release\SlayTea.csproj.CoreCompileInputs.cache
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Release\SlayTea.exe
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Release\SlayTea.pdb
+C:\Users\yutta\source\repos\SlayTea\SlayTea\bin\Release\SlayTea.exe.manifest
+C:\Users\yutta\source\repos\SlayTea\SlayTea\bin\Release\SlayTea.application
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Release\SlayTea.exe.manifest
+C:\Users\yutta\source\repos\SlayTea\SlayTea\obj\Release\SlayTea.application
